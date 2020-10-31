@@ -6,4 +6,3 @@ My name is Emily and I am in my third year of neuroscience at Dalhousie Universi
 
 If you would like to get in contact with me please email [EmilyGosselin8@gmail.com](mailto:emilygosselin8@gmail.com)
 
-Here is some [code](portfoliostuff.md)
