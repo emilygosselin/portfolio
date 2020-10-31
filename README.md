@@ -6,3 +6,5 @@ My name is Emily and I am in my third year of neuroscience at Dalhousie Universi
 
 If you would like to get in contact with me please email [EmilyGosselin8@gmail.com](mailto:emilygosselin8@gmail.com)
 
+#### Convering a Dictionary to a DataFrame
+Here is some [code I wrote](Converting Dictionary to DataFrame.md) to create and convert a data set I could work on.
