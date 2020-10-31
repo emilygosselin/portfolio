@@ -11,3 +11,9 @@ Here is some [code I wrote](Converting Dictionary to DataFrame.md) to create and
 
 #### Visualizing a DataFrame
 This is [code I wrote](Visualizing Data.md) to visualize the dataset (from above) in a bar chart.
+
+#### Combining and Visualizing Two DataFrames
+To add onto the dataset (from above), I combined it with another dataset and visualized the new combined DataFrame using [this code](Combining and Visualizing.md).
+
+#### Making Statements about the Data
+I created [these statements](Making Statements.md) about the dataset (from above) to help readers understand some key points of my data.
