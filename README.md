@@ -8,3 +8,6 @@ If you would like to get in contact with me please email [EmilyGosselin8@gmail.c
 
 #### Convering a Dictionary to a DataFrame
 Here is some [code I wrote](Converting Dictionary to DataFrame.md) to create and convert a data set I could work on.
+
+#### Visualizing a DataFrame
+This is [code I wrote](Visualizing Data.md) to visualize the dataset (from above) in a bar chart.
