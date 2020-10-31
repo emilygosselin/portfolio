@@ -16,4 +16,4 @@ This is [code I wrote](Visualizing Data.md) to visualize the dataset (from above
 To add onto the dataset (from above), I combined it with another dataset and visualized the new combined DataFrame using [this code](Combining and Visualizing.md).
 
 #### Making Statements about the Data
-I created [these statements](Making Statements.md) about the dataset (from above) to help readers understand some key points of my data.
+I created [these statements](Statements.md) about the dataset (from above) to help readers understand some key points of my data.
