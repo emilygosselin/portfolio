@@ -4,7 +4,7 @@
 
 My name is Emily, my pronouns are she/her, and I am in my third year of neuroscience at Dalhousie University. I only began coding a couple months ago and have learned a lot since then, which I hope can be demonstrated here. I have enjoyed the challenging problem-solving involved in coding and I look forward to continuing to learn and acquire new skills.
 
-#### Convering a Dictionary to a DataFrame
+#### Converting a Dictionary to a DataFrame
 Here is some [code I wrote](Converting Dictionary to DataFrame.md) to create and convert a data set I could work on.
 
 #### Visualizing a DataFrame
