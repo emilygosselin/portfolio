@@ -1,4 +1,4 @@
-### Hello and welcome to my coding portfolio!
+## Hello and welcome to my coding portfolio!
 
 <img align="right" src="IMG_5250.jpeg" width="250"/>
 
