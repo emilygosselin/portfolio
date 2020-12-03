@@ -8,13 +8,13 @@ My name is Emily, my pronouns are she/her, and I am in my third year of neurosci
 Here is some [code I wrote](Converting Dictionary to DataFrame.md) to create and convert a data set I could work on.
 
 #### Visualizing a DataFrame
-This is [code I wrote](Visualizing Data.md) to visualize the dataset (from above) in a bar chart.
+This is [code I wrote](Visualizing Data.md) to visualize the dataset [from above](Converting Dictionary to DataFrame.md) in a bar chart.
 
 #### Combining and Visualizing Two DataFrames
-To add onto the dataset (from above), I combined it with another dataset and visualized the new combined DataFrame using [this code](Combining and Visualizing.md).
+To add onto the dataset [from above](Visualizing Data.md), I combined it with another dataset and visualized the new combined DataFrame using [this code](Combining and Visualizing.md).
 
 #### Making Statements about the Data
-I created [these statements](Statements.md) about the dataset (from above) to help readers understand some key points of my data.
+I created [these statements](Statements.md) about the dataset [above](Combining and Visualizing.md) to help readers understand some key points of my data.
 
 ### Contact Information
 
