@@ -16,9 +16,6 @@ My name is Emily, my pronouns are she/her, and I am in my third year of neurosci
 >
 > **Combining and Visualizing Two DataFrames**
 >> To add onto the dataset [from above](convert.md), I combined it with another dataset and visualized the new combined DataFrame using [this code](combine.md).
->
-> **Making Statements about the Data**
->> I created [these statements](state.md) about the dataset [above](combine.md) to help readers understand some key points of my data.
 
 <p>&nbsp;</p>
 
