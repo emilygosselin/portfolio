@@ -7,7 +7,7 @@ My name is Emily, my pronouns are she/her, and I am in my third year of neurosci
 #### Contact Information
 If you would like to get in contact with me please email [EmilyGosselin8@gmail.com](mailto:emilygosselin8@gmail.com)
 
-## Creating, Combining, and Visualizing a Data Set
+### Creating, Combining, and Visualizing a Data Set
 
 #### Converting a Dictionary to a DataFrame
 Here is some [code I wrote](convert.md) to create and convert a data set I could work on.
