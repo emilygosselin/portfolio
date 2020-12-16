@@ -25,7 +25,7 @@ My name is Emily, my pronouns are she/her, and I am in my third year of neurosci
 #### Working with MRI Data
 >
 > **Visualizing MRI Data**
->> Here is some [code](MRIdata.md) going through how to import and visualize MRI data using ImageIO.
+>> 
 
 <p>&nbsp;</p>
 
