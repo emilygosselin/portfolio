@@ -7,6 +7,8 @@ My name is Emily, my pronouns are she/her, and I am in my third year of neurosci
 ### Contact Information
 If you would like to get in contact with me please email [EmilyGosselin8@gmail.com](mailto:emilygosselin8@gmail.com)
 
+
+
 #### Converting, Combining, and Visualizing Data
 Here is an [example](CCVD.md) of creating a dictionary to convert into a DataFrame, combining data sets, and visualizing data.
 
