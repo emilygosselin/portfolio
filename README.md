@@ -18,7 +18,7 @@ My name is Emily, my pronouns are she/her, and I am in my third year of neurosci
 > **Making Statements about the Data**
 >> I created [these statements](state.md) about the dataset [above](combine.md) to help readers understand some key points of my data.
 
-
+##### [Certificates I Hold](certificates.md)
 
 ##### Contact Information
 If you would like to get in contact with me please email [EmilyGosselin8@gmail.com](mailto:emilygosselin8@gmail.com)
