@@ -26,6 +26,9 @@ My name is Emily, my pronouns are she/her, and I am in my third year of neurosci
 >
 > **Visualizing MRI Data**
 >> Here is some [code](MRIdata.md) going through how to import and visualize MRI data using ImageIO.
+>
+> **Masking**
+>> Here, I go through how to [mask](brainmask.md) from the MRI data [above](MRIdata.md).
 
 <p>&nbsp;</p>
 
