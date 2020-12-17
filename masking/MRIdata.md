@@ -30,4 +30,4 @@ plt.show()
 
 <img src='mri.png' width=350 />
 
-This looks great! Next we will apply a mask to visualize the bright areas of the MRI, indicating fatty brain matter.
+This looks great! Next we will [apply a mask](brainmask.md) to visualize the bright areas of the MRI, indicating fatty brain matter.
