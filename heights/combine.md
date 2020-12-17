@@ -1,5 +1,5 @@
 ### Combining and Visualizing Two Data Frames
-Some data may need to be appended as time goes on and more research is done. Below, there is a new Data Frame, world_heights2 containing height data from 2012, that I would like to add to my original World Heights Data Frame.
+Some data may need to be appended as time goes on and more research is done. Below, there is a new Data Frame, world_heights2 containing height data from 2012, that I would like to add to my [original World Heights Data Frame](convert.md).
 
 <img src='wh2 table.png' width='300'/>
 
