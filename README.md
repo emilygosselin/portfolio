@@ -9,16 +9,16 @@ My name is Emily, my pronouns are she/her, and I am in my third year of neurosci
 #### Creating, Combining, and Visualizing a Data Set 
 >
 > **Converting a Dictionary to a DataFrame**
->> Here is some [code I wrote](convert.md) to create and convert a data set I could work on.
+>> Here is some [code I wrote](/heights/convert.md) to create and convert a data set I could work on.
 >
 > **Visualizing a DataFrame**
->> This is [code I wrote](visual.md) to visualize the dataset [from above](convert.md) in a bar chart.
+>> This is [code I wrote](heights/visual.md) to visualize the dataset [from above](heights/convert.md) in a bar chart.
 >
 > **Combining and Visualizing Two DataFrames**
->> To add onto the dataset [from above](convert.md), I combined it with another dataset and visualized the new combined DataFrame using [this code](combine.md).
+>> To add onto the dataset [from above](heights/convert.md), I combined it with another dataset and visualized the new combined DataFrame using [this code](heights/combine.md).
 >
 > **Making Statements about the Data**
->> I created [these statements](state.md) about the dataset [above](combine.md) to help readers understand some key points of my data.
+>> I created [these statements](heights/state.md) about the dataset [above](heights/combine.md) to help readers understand some key points of my data.
 
 <p>&nbsp;</p>
 
