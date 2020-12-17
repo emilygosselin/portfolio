@@ -1,5 +1,5 @@
 ### Making Min and Max Statements
-The last thing I wanted to do with my Combined Heights Data Frame is make statements about which countries had the shortest and tallest people. To do this, I used the following code...
+The last thing I wanted to do with my [Combined Heights Data Frame](combine.md) is make statements about which countries had the shortest and tallest people. To do this, I used the following code...
 
 
 ```
