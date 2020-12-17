@@ -1,5 +1,5 @@
 ### Visualizing World Height Data
-After creating an organized and readable Data Frame, I can visualize the data from the table in a bar chart using the following code...
+After creating an organized and readable Data Frame from [before](convert.md), I can visualize the data from the table in a bar chart using the following code...
 
 
 ```
