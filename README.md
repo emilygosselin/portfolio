@@ -34,7 +34,7 @@ My name is Emily, my pronouns are she/her, and I am in my third year of neurosci
 
 #### Aligning Photos in Markdown
 >
-> I learned [this code](aligningphotos.md) while completing a Neural Data Science course assignment.
+> Here is [some code](aligningphotos.md) I worked with when completing a course assignment.
 
 <p>&nbsp;</p>
 
