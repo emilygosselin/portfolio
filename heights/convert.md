@@ -38,4 +38,4 @@ print(world_heights)
     Romania              157.0  178.0
 
 
-Now this is much more readable and I can more easily find the values I want.
+Now this is much more readable! I can more easily find the values I want and [visualize](visual.md) the data.
