@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 ```
 
-Here is the **brain** image again to remind ourselves which areas we want to mask...
+Here is the **brain** image from [before](MRIdata.md) to remind ourselves which areas we want to mask...
 
 <img src='mri.png' width=350 />
 
